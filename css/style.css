@@ -9,11 +9,24 @@ height:500px;
   margin-left: 500px;
   margin-top:75px;
   }
-.container{
-  padding-left: 0px;
-  padding-right:0px;
+.yellow{
+  background-color: yellow;
+  height: 20px;
 }
-#two{display:inline;}
+.header h2{text-align: center;
+margin-left: 50px;}
+#one{
+  background-colour:white;
+}
+#two:hover{
+opacity: 0.6;
+}
+#three:hover{
+  opacity:0.6;
+  }
+  #four:hover{
+    opacity:0.6;
+  }
   /* Icon 1*/
   #nav-icon1, #nav-icon2, #nav-icon3, #nav-icon4 {
     width: 60px;
