@@ -9,10 +9,20 @@ height:500px;
   margin-left: 500px;
   margin-top:75px;
   }
-.yellow{
+.yellow-background{
   background-color: yellow;
-  height: 20px;
+  height: 70px;
+  margin-top: 10px;
+padding-top: 10px;
+text-align: center;}
+.pink-background{
+  background-color: pink;
+  text-align: center;
+  height:70px;
+  padding-top: 10px;
 }
+h2{text-align: center;}
+h4{text-align: center;}
 .header h2{text-align: center;
 margin-left: 50px;}
 #one{
