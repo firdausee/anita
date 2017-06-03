@@ -9,9 +9,15 @@ height:500px;
   margin-left: 500px;
   margin-top:75px;
   }
-  li{
-  display:;
-
+  .dropdown{
+  display:none;
+  background-color:grey;
+  width:100px;
+  position: relative;
+  margin-left: 10px;
+  margin-top: 10px
+  color:black;
+  float:left;
   }
 .yellow-background{
   background-color: yellow;
